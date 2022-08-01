@@ -18,7 +18,7 @@ const createScene = function () {
   function write() {
     const Writer = BABYLON.MeshWriter(scene, { scale: 0.1, defaultFont: "Arial" });
     new Writer(
-      "Emad und Frank im 3D Weltcc :D",
+      "Emad und Frank im 3D Welt :D",
       {
         "anchor": "center",
         "letter-height": 40,
