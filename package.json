@@ -13,6 +13,7 @@
     "parcel": "^2.6.2"
   },
   "dependencies": {
+    "babylonjs": "^5.17.1",
     "babylonjs-gui": "^5.17.1",
     "babylonjs-loaders": "^5.17.1",
     "babylonjs-materials": "^5.17.1",
